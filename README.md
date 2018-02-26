@@ -1,2 +1,1 @@
-# ml
-Code written for the coursera ml class assignments.
+Code written for class assignments for the ML class by Prof. Andrew Ng
